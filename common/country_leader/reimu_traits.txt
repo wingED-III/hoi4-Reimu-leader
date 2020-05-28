@@ -1,0 +1,10 @@
+leader_traits = {
+
+    embodiment_communism = {
+        random = no
+        
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
